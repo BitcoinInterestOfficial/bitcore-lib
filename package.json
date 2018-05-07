@@ -1,7 +1,7 @@
 {
-  "name": "bitcore-lib",
+  "name": "bitcore-lib-bci",
   "version": "0.15.0",
-  "description": "A pure and powerful JavaScript Bitcoin library.",
+  "description": "A pure and powerful JavaScript Bitcoin Interest library.",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,7 @@
   },
   "keywords": [
     "bitcoin",
+    "interest",
     "transaction",
     "address",
     "p2p",
@@ -28,7 +29,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/fellu/bitcore-lib.git"
+    "url": "https://github.com/BitcoinInterestOfficial/bitcore-lib-bci.git"
   },
   "browser": {
     "request": "browser-request"
