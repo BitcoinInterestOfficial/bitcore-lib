@@ -14,12 +14,9 @@ Bitcoin is a powerful new peer-to-peer platform for the next generation of finan
 ## Get Started
 
 ```
-npm install bitcore-lib
+npm install bitcore-lib-bci
 ```
 
-```
-bower install bitcore-lib
-```
 
 ## Documentation
 
@@ -75,8 +72,8 @@ To verify signatures, use the following PGP keys:
 ## Development & Tests
 
 ```sh
-git clone https://github.com/bitpay/bitcore-lib
-cd bitcore-lib
+git clone https://github.com/BitcoinInterestOfficial/bitcore-lib-bci
+cd bitcore-lib-bci
 npm install
 ```
 
